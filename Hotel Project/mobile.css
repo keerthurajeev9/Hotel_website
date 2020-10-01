@@ -1,0 +1,74 @@
+#navbar h1{
+    float: none;
+    text-align: center;
+}
+#navbar ul,#navbar ul li{
+    float: none;
+    text-align: center;
+}
+.first-section-content h1{
+    font-size: 40px;
+}
+.paragraph{
+    font-size:14px;
+    padding-top: 10px;
+}
+.button{
+    padding:10px;
+    font-size: 12px;
+}
+
+.second-section-img{
+    display: none;
+}
+.second-section-content{
+    float: none;
+    width: 100%;
+    font-size:14px;
+}
+.icon-box{
+    float: none;
+    width: 100%;
+}
+.about-one .about-image,.about-one .about-details{
+    float: none;
+    width: 100%;
+}
+h1{
+    text-align: center;
+}
+.about-details p{
+    text-align: center;
+}
+.about-one .about-image img{
+    width: 100%;
+    display: block;
+    border-radius: 40px;
+    margin-top:20px;
+}
+.guest-list .guests{
+    width: 300px;
+    margin-bottom: 10px;
+    display: inline-block;
+    word-wrap: normal;
+    height:55vh;
+}
+.guest-list .guests p{
+    display: inline;
+    padding-left: 60px;
+}
+
+.form-sec input{
+    width: 100%;
+}
+.form-sec label{
+    margin-top: 10px;
+}
+.form-sec textarea {
+    width: 100%;
+}
+.button{
+    width: 100%;
+    margin-top:10px;
+    border-radius: 6px;
+}
